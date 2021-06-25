@@ -1,1 +1,4 @@
-vscode: javascript, eslint, prettier
+vscode
+javascript
+eslint
+prettier
